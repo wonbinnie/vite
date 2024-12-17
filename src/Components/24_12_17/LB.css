@@ -1,0 +1,10 @@
+.lb {
+  padding: 20px;
+  row-gap: 20px;
+  align-items: center;
+}
+.lb button {
+  border-radius: 100px;
+  background-color: red;
+  padding: 10px 20px;
+}
